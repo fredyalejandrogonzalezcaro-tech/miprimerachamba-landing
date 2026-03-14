@@ -7,7 +7,7 @@ const products = [
     id: 1,
     name: "Crema Hidratante Premium",
     description: "Hidratación profunda 24h con ácido hialurónico",
-    price: "$450",
+    price: "$670",
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&h=400&fit=crop"
   },
   {

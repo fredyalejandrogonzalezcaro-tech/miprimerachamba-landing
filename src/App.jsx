@@ -28,7 +28,7 @@ const products = [
     id: 4,
     name: "Oil Limpiador",
     description: "Limpieza suave que no altera la barrera cutánea",
-    price: "$320",
+    price: "$600",
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop"
   }
 ]

@@ -21,14 +21,14 @@ const products = [
     id: 3,
     name: "Mascarilla Reparadora",
     description: "Nutrición intensiva para piel radiante",
-    price: "$380",
+    price: "$400",
     image: "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400&h=400&fit=crop"
   },
   {
     id: 4,
     name: "Oil Limpiador",
     description: "Limpieza suave que no altera la barrera cutánea",
-    price: "$320",
+    price: "$600",
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop"
   }
 ]

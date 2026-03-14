@@ -56,7 +56,7 @@ const products = [
     id: 8,
     name: "Protector Solar SPF 50",
     description: "Protección UVA/UVB fluida y sin residuo blanco",
-    price: "$550",
+    price: "$900",
     image: "https://images.unsplash.com/photo-1556227834-09f1de7a7d14?w=400&h=400&fit=crop"
   }
 ]

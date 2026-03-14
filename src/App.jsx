@@ -30,6 +30,34 @@ const products = [
     description: "Limpieza suave que no altera la barrera cutánea",
     price: "$600",
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop"
+  },
+  {
+    id: 5,
+    name: "Tónico Equilibrante",
+    description: "Restablece el pH de tu piel prepárate para los demás pasos",
+    price: "$380",
+    image: "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=400&h=400&fit=crop"
+  },
+  {
+    id: 6,
+    name: "Crema Ojos Antiarrugas",
+    description: "Reduce ojeras y líneas de expresión con cafeína y péptidos",
+    price: "$750",
+    image: "https://images.unsplash.com/photo-1617897903246-719242758050?w=400&h=400&fit=crop"
+  },
+  {
+    id: 7,
+    name: "Exfoliante Enzimático",
+    description: "Eliminación suave de células muertas sin irritación",
+    price: "$450",
+    image: "https://images.unsplash.com/photo-1567721913486-6585f069b332?w=400&h=400&fit=crop"
+  },
+  {
+    id: 8,
+    name: "Protector Solar SPF 50",
+    description: "Protección UVA/UVB fluida y sin residuo blanco",
+    price: "$550",
+    image: "https://images.unsplash.com/photo-1556227834-09f1de7a7d14?w=400&h=400&fit=crop"
   }
 ]
 
